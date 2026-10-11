@@ -1,0 +1,39 @@
+Walto License 1.0
+Copyright (c) 2026 dewenyes
+Original project: https://github.com/dewenyes/walto
+
+中文条款（具有解释优先权）
+
+1. 授权范围
+本许可证适用于本项目中权利人有权授权的 Skill 指令、文档及随附代码（统称“Walto 材料”），及复制、修改、改编或包含这些材料的衍生版本。第三方材料按其自身条款处理。本许可证不授予对一般思想、功能或独立开发实现的专有权。
+
+2. 允许的行为
+在遵守本许可证的前提下，允许免费安装、使用、复制、研究、修改 Walto 材料，并允许免费分发原版和修改版。允许使用 Walto 制作个人或商业壁纸作品，以及为客户提供人工主导的壁纸创作服务，按第 5 条处理。
+
+3. 分发时的署名义务
+分发 Walto 材料或其衍生版本时，必须保留版权声明和完整许可证，并在随附说明或产品说明的显著位置写明“Based on Walto”（或“源自 Walto”）及原项目链接 https://github.com/dewenyes/walto。修改版必须明确说明经过修改，不得冒充官方版本或将所复制的 Walto 材料声称为完全原创。
+
+4. 工具及衍生产品的收费限制
+未经权利人另行授权，不得出售、转售 Walto 材料或其修改版，不得付费打包分发，不得把 Walto 材料或其衍生版本集成到收费 App、付费功能、订阅产品或收费自动化生成服务中。以购买其他商品或服务作为取得 Walto 材料或上述功能的必要条件，也属于收费。仅仅改名、改写或增加功能不会免除本条限制。
+本条限制针对工具、软件或自动化服务的商业销售，不限制第 5 条的作品使用。权利人保留自行商业化及另行提供商业授权的权利。
+
+5. 创作成果
+使用 Walto 制作的壁纸及其他图像成果不受第 4 条的收费限制，使用者可自由使用、修改、分享、出售或用于商业设计，无须为图像作品署名 Walto。人工主导的委托创作并交付壁纸作品可以收费；提供基于 Walto 的付费自助 App 或自动化生成服务仍受第 4 条限制。
+本许可证不授予第三方图片、肖像、商标或其他素材的权利，不保证生成成果具有版权或独占性，也不替代图像模型供应商的服务条款。
+
+6. 品牌
+来源署名不构成使用 Walto 品牌暗示官方认可或授权的许可。
+
+7. 终止
+违反本许可证时，本许可证授予的相关许可终止；继续复制、修改或分发 Walto 材料须重新取得权利人的许可。依法不需要许可的行为不受影响。
+
+8. 免责声明
+Walto 材料按现状提供。在适用法律允许的最大范围内，权利人不提供明示或默示担保，包括适销性、特定用途适用性或不侵权担保，并不承担因使用材料产生的损失责任。
+
+English summary (informational; the Chinese terms above govern)
+
+You may use, study, modify and redistribute Walto materials free of charge.
+Redistributions must retain copyright and the full license, credit “Based on Walto”, link to the original project, and identify modifications.
+Without separate authorization, you may not sell Walto or modified versions, bundle them for payment, or incorporate them into paid derivative apps, paid features, subscriptions or automated generation services.
+Wallpapers and other image outputs may be shared, sold and used commercially without Walto attribution, subject to third-party rights and model-provider terms. Human-led commissioned artwork is permitted; paid self-service apps and automated services based on Walto require separate authorization.
+The rights holder reserves separate commercial licensing rights. No trademark endorsement or ownership of general ideas is granted. Materials are provided as-is, without warranties to the extent permitted by law.
