@@ -18,7 +18,44 @@ Walto 是一款兼容中英文的通用 Agent Skill，可将截图、照片、�
 
 ## Install / 安装
 
-Copy the `walto` folder into the Skills directory supported by your agent, or follow that agent's installation instructions. 将 `walto` 文件夹放入所用 Agent 支持的 Skills 目录，或按对应平台说明安装。
+### Skills CLI
+
+```bash
+npx skills add dewenyes/walto --skill walto
+```
+
+Select your agent and installation scope when prompted. 按提示选择工具与安装范围。
+
+### ZIP / 安装包
+
+Download [walto-v1.0.0.zip](https://github.com/dewenyes/walto/releases/download/v1.0.0/walto-v1.0.0.zip), then import the complete ZIP into an agent that supports Skill uploads, or extract and copy the `walto` folder into its Skills directory.
+
+下载完整 ZIP，在支持 Skill 上传的工具中导入，或解压后将 `walto` 文件夹复制到对应技能目录。请保留随附的 LICENSE 和 README。
+
+### Qoder
+
+For Qoder IDE / CLI:
+
+```bash
+npx skills add dewenyes/walto --skill walto -a qoder
+```
+
+For the Qoder desktop app, use Extensions → Skills → Add Skills → Upload Skill and select the ZIP. QoderWork also supports installing from a GitHub link. Interfaces differ between Qoder editions; follow the documentation for your edition.
+
+Qoder 桌面版可通过扩展 → 技能 → 添加技能 → 上传 Skill 导入 ZIP。QoderWork 也支持提供 GitHub 链接后要求安装。不同版本界面可能不同，请按所用版本说明操作。
+
+## Try Walto / 开始使用
+
+Upload an image and ask: “Use Walto to turn this image into a portrait wallpaper, preserving the subject and style.”
+
+上传图片后说：“使用 Walto，把这张图片制作成竖屏壁纸，保留主体和原图风格。”横屏同样支持。
+
+Installing Walto provides instructions, not a bundled image model or API credits. Actual image generation depends on your agent's tools and any provider you configure.
+
+安装 Walto 提供的是工作流程，不包含图像模型或 API 额度。实际生成能力取决于宿主工具和你配置的供应商。
+
+Documentation: [Skills CLI](https://skills.sh/docs) · [Qoder Skills](https://docs.qoder.com/qoder/skills) · [Qoder IDE Skills](https://docs.qoder.com/extensions/skills)
+
 
 ## Requirements / 使用条件
 
